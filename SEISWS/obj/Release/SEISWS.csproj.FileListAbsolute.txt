@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\archivos\SEISWS\bin\SEISWS.dll.config
+C:\Users\Daniel\Desktop\archivos\SEISWS\bin\SEISWS.dll
+C:\Users\Daniel\Desktop\archivos\SEISWS\bin\SEISWS.pdb
+C:\Users\Daniel\Desktop\archivos\SEISWS\obj\Release\SEISWS.dll
+C:\Users\Daniel\Desktop\archivos\SEISWS\obj\Release\SEISWS.pdb
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\bin\SEISWS.dll.config
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\bin\SEISWS.dll
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\bin\SEISWS.pdb
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\obj\Release\SEISWS.dll
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\obj\Release\SEISWS.pdb
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\bin\SEISWS.dll.config
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\bin\SEISWS.dll
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\bin\SEISWS.pdb
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\obj\Release\SEISWS.dll
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\obj\Release\SEISWS.pdb
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\obj\Release\SEISWS.csprojResolveAssemblyReference.cache

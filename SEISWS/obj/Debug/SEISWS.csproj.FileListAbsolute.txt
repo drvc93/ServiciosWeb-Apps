@@ -1,0 +1,64 @@
+C:\Users\IBM\Documents\Visual Studio 2010\Projects\SEISWS\SEISWS\bin\SEISWS.dll
+C:\Users\IBM\Documents\Visual Studio 2010\Projects\SEISWS\SEISWS\bin\SEISWS.pdb
+C:\Users\IBM\Documents\Visual Studio 2010\Projects\SEISWS\SEISWS\obj\Debug\SEISWS.dll
+C:\Users\IBM\Documents\Visual Studio 2010\Projects\SEISWS\SEISWS\obj\Debug\SEISWS.pdb
+C:\Users\User\documents\visual studio 2010\Projects\SEISWS\SEISWS\bin\SEISWS.dll
+C:\Users\User\documents\visual studio 2010\Projects\SEISWS\SEISWS\bin\SEISWS.pdb
+C:\Users\User\documents\visual studio 2010\Projects\SEISWS\SEISWS\obj\Debug\SEISWS.dll
+C:\Users\User\documents\visual studio 2010\Projects\SEISWS\SEISWS\obj\Debug\SEISWS.pdb
+E:\FUENTES\web services  app android\SEISWS\SEISWS 2015-09-25\SEISWS\SEISWS\bin\SEISWS.dll
+E:\FUENTES\web services  app android\SEISWS\SEISWS 2015-09-25\SEISWS\SEISWS\bin\SEISWS.pdb
+E:\FUENTES\web services  app android\SEISWS\SEISWS 2015-09-25\SEISWS\SEISWS\obj\Debug\SEISWS.dll
+E:\FUENTES\web services  app android\SEISWS\SEISWS 2015-09-25\SEISWS\SEISWS\obj\Debug\SEISWS.pdb
+E:\FUENTES\web services  app android\SEISWS\SEISWS 2015-09-25\SEISWS\SEISWS\obj\Debug\SEISWS.csprojResolveAssemblyReference.cache
+D:\DATOS_SES\FUENTES SEIS (NUEVO)\2015\SEISWS\2.3\SEISWS\SEISWS\bin\SEISWS.dll
+D:\DATOS_SES\FUENTES SEIS (NUEVO)\2015\SEISWS\2.3\SEISWS\SEISWS\bin\SEISWS.pdb
+D:\DATOS_SES\FUENTES SEIS (NUEVO)\2015\SEISWS\2.3\SEISWS\SEISWS\obj\Debug\SEISWS.dll
+D:\DATOS_SES\FUENTES SEIS (NUEVO)\2015\SEISWS\2.3\SEISWS\SEISWS\obj\Debug\SEISWS.pdb
+D:\DATOS_SES\FUENTES SEIS (NUEVO)\2015\SEISWS\2.3\SEISWS\SEISWS\obj\Debug\SEISWS.csprojResolveAssemblyReference.cache
+E:\FUENTES\web services  app android\SEISWS\2.3\2.3\SEISWS\SEISWS\bin\SEISWS.dll
+E:\FUENTES\web services  app android\SEISWS\2.3\2.3\SEISWS\SEISWS\bin\SEISWS.pdb
+E:\FUENTES\web services  app android\SEISWS\2.3\2.3\SEISWS\SEISWS\obj\Debug\SEISWS.dll
+E:\FUENTES\web services  app android\SEISWS\2.3\2.3\SEISWS\SEISWS\obj\Debug\SEISWS.pdb
+E:\FUENTES\web services  app android\SEISWS\2.3\2.3\SEISWS\SEISWS\obj\Debug\SEISWS.csprojResolveAssemblyReference.cache
+E:\FUENTES\web services  app android\SEISWS\2.3\2.3\SEISWS\SEISWS\bin\SecuGen.FDxSDKPro.Windows.dll
+C:\Users\dvillanueva\Desktop\Nueva carpeta\SEISWS\SEISWS\SEISWS\bin\SEISWS.dll
+C:\Users\dvillanueva\Desktop\Nueva carpeta\SEISWS\SEISWS\SEISWS\bin\SEISWS.pdb
+C:\Users\dvillanueva\Desktop\Nueva carpeta\SEISWS\SEISWS\SEISWS\bin\SecuGen.FDxSDKPro.Windows.dll
+C:\Users\dvillanueva\Desktop\Nueva carpeta\SEISWS\SEISWS\SEISWS\obj\Debug\SEISWS.dll
+C:\Users\dvillanueva\Desktop\Nueva carpeta\SEISWS\SEISWS\SEISWS\obj\Debug\SEISWS.pdb
+E:\Servicio Web - Edit\SEISWS\SEISWS\bin\SEISWS.dll
+E:\Servicio Web - Edit\SEISWS\SEISWS\bin\SEISWS.pdb
+E:\Servicio Web - Edit\SEISWS\SEISWS\bin\SecuGen.FDxSDKPro.Windows.dll
+E:\Servicio Web - Edit\SEISWS\SEISWS\obj\Debug\SEISWS.csprojResolveAssemblyReference.cache
+E:\Servicio Web - Edit\SEISWS\SEISWS\obj\Debug\SEISWS.dll
+E:\Servicio Web - Edit\SEISWS\SEISWS\obj\Debug\SEISWS.pdb
+C:\Users\dvillanueva\Desktop\Back\SEISWS\SEISWS\SEISWS\bin\SEISWS.dll
+C:\Users\dvillanueva\Desktop\Back\SEISWS\SEISWS\SEISWS\bin\SEISWS.pdb
+C:\Users\dvillanueva\Desktop\Back\SEISWS\SEISWS\SEISWS\bin\SecuGen.FDxSDKPro.Windows.dll
+C:\Users\dvillanueva\Desktop\Back\SEISWS\SEISWS\SEISWS\obj\Debug\SEISWS.dll
+C:\Users\dvillanueva\Desktop\Back\SEISWS\SEISWS\SEISWS\obj\Debug\SEISWS.pdb
+E:\Servicios Web Febrero 2016\SEISWS\SEISWS\bin\SEISWS.dll
+E:\Servicios Web Febrero 2016\SEISWS\SEISWS\bin\SEISWS.pdb
+E:\Servicios Web Febrero 2016\SEISWS\SEISWS\bin\SecuGen.FDxSDKPro.Windows.dll
+E:\Servicios Web Febrero 2016\SEISWS\SEISWS\obj\Debug\SEISWS.dll
+E:\Servicios Web Febrero 2016\SEISWS\SEISWS\obj\Debug\SEISWS.pdb
+E:\Servicios Web Febrero 2016\SEISWS\SEISWS\obj\Debug\SEISWS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\archivos\SEISWS\bin\SEISWS.dll.config
+C:\Users\Daniel\Desktop\archivos\SEISWS\bin\SEISWS.dll
+C:\Users\Daniel\Desktop\archivos\SEISWS\bin\SEISWS.pdb
+C:\Users\Daniel\Desktop\archivos\SEISWS\obj\Debug\SEISWS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\archivos\SEISWS\obj\Debug\SEISWS.dll
+C:\Users\Daniel\Desktop\archivos\SEISWS\obj\Debug\SEISWS.pdb
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\bin\SEISWS.dll.config
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\bin\SEISWS.dll
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\bin\SEISWS.pdb
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\obj\Debug\SEISWS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\obj\Debug\SEISWS.dll
+C:\Users\Daniel\Desktop\EPS SEDALORETO SERVICIOS WEB Y APP\SEISWS\obj\Debug\SEISWS.pdb
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\bin\SEISWS.dll.config
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\bin\SEISWS.dll
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\bin\SEISWS.pdb
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\obj\Debug\SEISWS.dll
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\obj\Debug\SEISWS.pdb
+D:\Sedalorteo app y WhashApp\Sedaloreto\SEISWS\obj\Debug\SEISWS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\WebSite" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Demo_SEISWS" publishMethod="FileSystem" replaceMatchingFiles="False" userName="soporte" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACw8NAV2sD02CBgClkY7wqQAAAAACAAAAAAADZgAAwAAAABAAAABx0iavygU5Yn2BZ971hlqNAAAAAASAAACgAAAAEAAAAFDvdfr6cD1SdQmZ0Bg67TAgAAAAcqjvs9vAsuVFSnoNmhcs98MMNunG7Ww+BfwK4Mzknk8UAAAAE5VdLcUlwHhRUxTBmMrTZpukr4A=" SelectedForPublish="True">
+    <file relUrl="bin/SEISWS.pdb" publishTime="05/05/2016 09:52:21" />
+    <file relUrl="bin/SecuGen.FDxSDKPro.Windows.dll" publishTime="11/15/2013 16:30:40" />
+    <file relUrl="WSParticipante.asmx" publishTime="03/26/2014 10:49:48" />
+    <file relUrl="Web.config" publishTime="05/05/2016 09:29:03" />
+    <file relUrl="bin/SEISWS.dll" publishTime="05/05/2016 09:52:21" />
+  </publishProfile>
+  <publishProfile publishUrl="http://demo.sociosensalud.org.pe/WSSEIS/" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="WSSEIS/" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="False" msdeployMarkAsApp="False" profileName="WSiWeb" publishMethod="FileSystem" replaceMatchingFiles="True" userName="soporte" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACw8NAV2sD02CBgClkY7wqQAAAAACAAAAAAADZgAAwAAAABAAAAAKqjQwM7+mQ+0/M9hLEEcXAAAAAASAAACgAAAAEAAAABCi9fsLNDFHvCthK05z+LYQAAAA7d3DPzDYMuUbFkvHuDIsQBQAAAA04onTtTeDipVk6rpIddVnzDbmRw==" SelectedForPublish="False">
+    <file relUrl="bin/SEISWS.pdb" publishTime="09/03/2015 16:51:12" />
+    <file relUrl="WSParticipante.asmx" publishTime="03/26/2014 10:49:48" />
+    <file relUrl="Web.config" publishTime="09/03/2015 16:53:49" />
+    <file relUrl="bin/SEISWS.dll" publishTime="09/03/2015 16:51:12" />
+  </publishProfile>
+  <publishProfile publishUrl="http://localhost/WSSES" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Localhost" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="False">
+    <file relUrl="bin/SEISWS.pdb" publishTime="10/03/2014 11:05:35" />
+    <file relUrl="WSParticipante.asmx" publishTime="03/26/2014 10:49:48" />
+    <file relUrl="Web.config" publishTime="09/19/2014 14:33:03" />
+    <file relUrl="bin/SEISWS.dll" publishTime="10/03/2014 11:05:35" />
+  </publishProfile>
+</publishData>

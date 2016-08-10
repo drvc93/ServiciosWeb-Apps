@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>D:\WEB SERV</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/SecuGen.FDxSDKPro.Windows.dll">
+      <publishTime>11/15/2013 15:30:40</publishTime>
+    </File>
+    <File Include="bin/SEISWS.dll">
+      <publishTime>07/28/2016 09:59:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/23/2016 03:22:45</publishTime>
+    </File>
+    <File Include="WSParticipante.asmx">
+      <publishTime>03/26/2014 09:49:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
